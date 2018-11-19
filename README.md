@@ -1,0 +1,2 @@
+# clang
+print 5
